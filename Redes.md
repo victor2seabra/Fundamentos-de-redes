@@ -13,19 +13,19 @@ Business e SOHO geralmente provêm uma rede compartilhada de conexão à interne
 
 + Small Home Network (SHM)
 	+ Realiza a conexão de poucos computadores e dispositivos à internet
-	 ![[Pasted image 20251101061151.png]]
+	 ![[network-images/Pasted image 20251101061151.png]]
 + SOHO
 	+ São redes onde o usuário, de forma remota ou não, pode acessar a rede corporativa e/ou seus recursos compartilhados de forma centralizada
-	 ![[Pasted image 20251101061204.png]]
+	 ![[network-images/Pasted image 20251101061204.png]]
 + Medium Large Networks (MLN)
 	+ Comuns em escolas e empresas, são redes que podem ter muitas localizações e centenas ou milhares de dispositivos (hosts) interconectados simultaneamente
-	![[Pasted image 20251101061221.png]]
+	![[network-images/Pasted image 20251101061221.png]]
 + World Wide Web (WWW)
 	+ Se trata da rede de redes que permite a conexão entre dispositivos em todo o mundo
 	+ **A internet (interconnected networks) se trata de uma rede de redes** pois é um conjunto de redes conectadas entre si por meio de protocolos
-	![[Pasted image 20251101061306.png]]
+	![[network-images/Pasted image 20251101061306.png]]
 # Infraestrutura da Rede
-![[Pasted image 20251103073838.png]]
+![[network-images/Pasted image 20251103073838.png]]
 ## End devices
 Podem também ser denominados de Hosts
 
@@ -109,7 +109,7 @@ Sinais podem sofrer mais de uma conversão ao longo da sua transmissão até che
 + Wireless
 	+ Aqui a transmissão é feita via radiação (IR, microondas, ondas de rádio)
 
-![[Pasted image 20251101065317.png]]
+![[network-images/Pasted image 20251101065317.png]]
 ## Internet Service Provider (ISP)
 Permitem o acesso de um rede local com a internet
 
@@ -124,7 +124,7 @@ São feitas de modo hierárquico para garantir que o destino do request seja alc
 Uma conexão direta de um Modem com o ISP, apesar de poder ocorrer, não é recomendada em termos de segurança, uma vez que ficamos mais expostos
 
 O modo mais seguro consiste no uso de um Integrated Router (IR) junto de um Modem. O IR possui um Switch, permitindo a conexão de diversos usuários
-![[Pasted image 20251111083039.png]]
+![[network-images/Pasted image 20251111083039.png]]
 # Banda Larga (Bandwidth)
 É a **capacidade** de um meio transportar dados, **em cenários ideais**, em termos de taxas de bits por segundo (MB/s = Mbps)
 # Throughput
@@ -162,7 +162,7 @@ Um **Client** são hosts tem como função **obter informações de um host** qu
 
 Um **Server** são hosts que tem como função **prover informação a outros hosts** na rede. **Cada funcionalidade de servidor tem seu próprio software (email, web, files, ...)**
 
-![[Pasted image 20251103073513.png]]
+![[network-images/Pasted image 20251103073513.png]]
 # Peer-to-Peer Network (P2P)
 **São redes onde o host atua, simultâneamente, como Client e Server**
 
@@ -187,7 +187,7 @@ Podemos ter uma rede com mais de dois computadores que executam P2P, mas para is
 
 O funcionamento se baseia em que cada acesso de cada Peer é realizado acessando a localização do outro Peer no repositório centralizado para dar sequência na operação
 
-![[Pasted image 20251103073338.png]]
+![[network-images/Pasted image 20251103073338.png]]
 # Conexões via Cabos e DSL
 Conexões vi cabos são realizadas via um cabo coaxial que permite uma conexão com alta Bandwidth, sempre ligada
 
