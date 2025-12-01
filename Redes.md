@@ -187,7 +187,7 @@ Podemos ter uma rede com mais de dois computadores que executam P2P, mas para is
 
 O funcionamento se baseia em que cada acesso de cada Peer é realizado acessando a localização do outro Peer no repositório centralizado para dar sequência na operação
 
-![](network-images/Pasted image 20251103073338.png)
+![](network-images/'Pasted image 20251103073338.png')
 # Conexões via Cabos e DSL
 Conexões vi cabos são realizadas via um cabo coaxial que permite uma conexão com alta Bandwidth, sempre ligada
 
